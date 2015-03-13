@@ -667,9 +667,6 @@
                         }
                     }
                 );
-
-            this.$c.bind("mousewheel DOMMouseScroll", mw);
-            this.$.bind("mousewheel DOMMouseScroll", mw)
         };
 
         this.init = function () {
